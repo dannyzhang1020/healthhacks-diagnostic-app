@@ -1,0 +1,1 @@
+{"ast":null,"code":"import 'react-accessible-accordion/dist/fancy-example.css';","map":{"version":3,"sources":["/Users/danny/WebstormProjects/untitled/pages/_app.js"],"names":[],"mappings":"AAAA,OAAO,mDAAP","sourcesContent":["import 'react-accessible-accordion/dist/fancy-example.css';\n"]},"metadata":{},"sourceType":"module"}
